@@ -1,0 +1,1 @@
+https://peppe8o.com/using-raspberry-pi-with-dht11-temperature-and-humidity-sensor-and-python/#:~:text=%20Step-by-Step%20Procedure%20%201%20Wiring%20Diagram.%20Note,of%20Python%20libraries%20from%20Adafruit%20which...%20More%20

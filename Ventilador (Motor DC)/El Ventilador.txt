@@ -1,0 +1,8 @@
+Materiales:
+  -Mini motor electrico dc (Puede ser de 3v o mas)
+  -Elices impresas 3d
+  -Interruptor electrico
+  -Cables que tengan entradas para las baterias 
+  -Baterias (Dependera de los voltios que consuma el motor)
+Funcionalidad:
+  -El ventilador lo que hara es sacar el aire contaminado dentro del invernadero que puede generar patogenos dentro.

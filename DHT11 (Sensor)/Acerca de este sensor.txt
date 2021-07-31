@@ -1,0 +1,3 @@
+El sensor dht11 nos sirve para medir la temperatura y la humedad del ambiente.
+Tuvimos bastantes problemas para encontrar unas instrucciones que nos sirvan pero al fin encontramos una el cual
+corresponde al link.

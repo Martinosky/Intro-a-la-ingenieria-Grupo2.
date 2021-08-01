@@ -1,1 +1,13 @@
-Dimensión: 70 cm al cubo
+Instrucciones para su construcción:
+ -El cubo debe ser de 70 centimetros cubicos
+ -Cortar varios trozos de madera de iguales dimensiones para formar el esqueleto del cubo sin ninguna cara tapada
+ -Formar el esqueleto del cubo uniendo los trozos de madera con clavos usando martillo
+ -Hay que rellenar la cara que toca el suelo y una lateral que estara al lado opuesto de la puerta
+ -En dicha cara lateral que esta opuesta a la puerta se le debe hacer una apertura de 10x10 centimetros cuadrados para que se implemente el ventilador
+ -La puerta estara unida a las visagras (Las visagras se imprimieron 3D)
+ -Se tienen que rellenar las otras caras con planchas de policloruro de vinilo (Material transparente que aisla la temperatura) usando clavos pequeños.
+ -Se pega el motor y la bateria al espacio de 10x10 centimetros cuadrados que se hizo en la cara opuesta a la puerta.
+ -Se hace una mini apertura en la cual a traves de ella pasa el cable de la ampolleta.
+ -Se hace un mini gancho dentro del invernadero para que la ampolleta quede colgando en ella.
+ -La raspberry
+
